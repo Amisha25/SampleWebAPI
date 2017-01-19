@@ -29,6 +29,7 @@ namespace SampleWebAPITests
             Assert.That(result.Id, Is.EqualTo(0));
             Assert.That(result.Name, Is.EqualTo("Red Truck"));
             Assert.That(result.Description, Is.Not.Null);
+
         }
     }
 }
