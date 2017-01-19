@@ -1,3 +1,6 @@
+branches:
+  only:
+  - amidev
 language: csharp
 solution: SampleWebAPI.sln
 sudo: required
