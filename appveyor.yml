@@ -2,3 +2,17 @@ test:
   # assemblies to test - optional
   assemblies:
     - \SampleWebAPI\SampleWebAPITests\bin\Debug\SampleWebAPITests.dll
+	
+artifacts:
+  - path: obj\Release\Package\PackageTmp
+    name: final-api
+
+deploy:
+  - provider: WebDeploy
+    server: https://samplewebapi25.scm.azurewebsites.net/msdeploy.axd?site=samplewebapi25
+    website: samplewebapi25
+    username: $samplewebapi25
+    password: Data%123
+    remove_files: true
+    app_offline: true
+    artifact: final-api
