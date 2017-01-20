@@ -10,7 +10,8 @@ deploy:
     server: samplewebapi25.scm.azurewebsites.net:443
     website: samplewebapi25
     username: $samplewebapi25
-    password: Data%123
+    password:
+      secure: <super secret password that was encrypted using the AppVeyor UI>
     remove_files: true
     app_offline: true
     artifact: SampleWebAPI
