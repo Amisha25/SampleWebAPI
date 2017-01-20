@@ -3,8 +3,8 @@ test:
   assemblies:
     - \SampleWebAPI\SampleWebAPITests\bin\Debug\SampleWebAPITests.dll
 artifacts:
-  - path: C:\projects\samplewebapi-tdy2l\SampleWebAPI.sln
-    name: final-api
+  - path: \SampleWebAPI
+    name: SampleWebAPI
 deploy:
   - provider: WebDeploy
     server: https://samplewebapi25.scm.azurewebsites.net/msdeploy.axd?site=samplewebapi25
@@ -13,4 +13,4 @@ deploy:
     password: Data%123
     remove_files: true
     app_offline: true
-    artifact: final-api
+    artifact: SampleWebAPI
