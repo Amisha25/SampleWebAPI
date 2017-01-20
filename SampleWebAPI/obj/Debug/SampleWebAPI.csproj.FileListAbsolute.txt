@@ -1,4 +1,3 @@
-C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\obj\Debug\SampleWebAPI.csprojResolveAssemblyReference.cache
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\SampleWebAPI.dll.config
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\SampleWebAPI.dll
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\SampleWebAPI.pdb
