@@ -7,7 +7,7 @@ artifacts:
     name: SampleWebAPI
 deploy:
   - provider: WebDeploy
-    server: https://samplewebapi25.scm.azurewebsites.net/msdeploy.axd?site=samplewebapi25
+    server: samplewebapi25.scm.azurewebsites.net:443
     website: samplewebapi25
     username: $samplewebapi25
     password: Data%123
