@@ -3,7 +3,7 @@ test:
   assemblies:
     - \SampleWebAPI\SampleWebAPITests\bin\Debug\SampleWebAPITests.dll
 artifacts:
-  - path: obj\Release\Package\PackageTmp
+  - path: C:\projects\samplewebapi-tdy2l\SampleWebAPI.sln
     name: final-api
 deploy:
   - provider: WebDeploy
