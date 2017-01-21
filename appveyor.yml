@@ -4,8 +4,8 @@ test:
     - \SampleWebAPI\SampleWebAPITests\bin\Debug\SampleWebAPITests.dll
     - \SampleWebAPI\SampleWebAPITests\bin\Debug\SampleWebAPI.dll
   categories:
-    - UI
-    - E2E
+    - A
+    - B
 artifacts:
   - path: \SampleWebAPI
     name: SampleWebAPI
