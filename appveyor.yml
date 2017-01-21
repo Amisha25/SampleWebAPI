@@ -3,8 +3,8 @@ test:
   assemblies:
     - \SampleWebAPI\SampleWebAPITests\bin\Debug\SampleWebAPITests.dll
   categories:
-    - A
-    - B
+    - UI
+    - E2E
 artifacts:
   - path: \SampleWebAPI
     name: SampleWebAPI
