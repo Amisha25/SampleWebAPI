@@ -2,6 +2,7 @@ test:
   # assemblies to test - optional
   assemblies:
     - \SampleWebAPI\SampleWebAPITests\bin\Debug\SampleWebAPITests.dll
+	- \SampleWebAPI\SampleWebAPITests\bin\Debug\SampleWebAPI.dll
   categories:
     - UI
     - E2E
