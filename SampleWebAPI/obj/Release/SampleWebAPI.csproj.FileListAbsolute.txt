@@ -46,4 +46,7 @@ C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\zh-Hans\System.Spatial
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\zh-Hant\System.Spatial.resources.dll
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\obj\Release\SampleWebAPI.dll
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\obj\Release\SampleWebAPI.pdb
-C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\obj\Release\SampleWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\SampleWebAPI.dll.CodeAnalysisLog.xml
+C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\SampleWebAPI.dll.lastcodeanalysissucceeded
+C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\nunit.framework.dll
+C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\nunit.framework.xml

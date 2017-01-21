@@ -2,6 +2,9 @@ test:
   # assemblies to test - optional
   assemblies:
     - \SampleWebAPI\SampleWebAPITests\bin\Debug\SampleWebAPITests.dll
+  categories:
+    - A
+    - B
 artifacts:
   - path: \SampleWebAPI
     name: SampleWebAPI
@@ -10,7 +13,7 @@ deploy:
     server: https://samplewebapi25.scm.azurewebsites.net/msdeploy.axd?site=samplewebapi25
     website: samplewebapi25
     username: samplewebapi25
-    password: Data%123
+    password: $password
     remove_files: true
     app_offline: true
     artifact: SampleWebAPI
