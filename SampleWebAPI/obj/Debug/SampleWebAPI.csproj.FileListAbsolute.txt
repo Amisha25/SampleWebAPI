@@ -4,6 +4,7 @@ C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\SampleWebAPI.pdb
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\Microsoft.Data.Edm.dll
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\Microsoft.Data.OData.dll
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\nunit.framework.dll
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\System.Net.Http.Formatting.dll
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\System.Spatial.dll
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\System.Web.Http.dll
@@ -11,6 +12,7 @@ C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\System.Web.Http.OData.
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\System.Web.Http.WebHost.dll
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\Microsoft.Data.Edm.xml
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\Microsoft.Data.OData.xml
+C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\nunit.framework.xml
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\System.Spatial.xml
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\System.Web.Http.OData.xml
 C:\Users\m1035728\Documents\SampleWebAPI\SampleWebAPI\bin\Newtonsoft.Json.xml

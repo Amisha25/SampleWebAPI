@@ -1,4 +1,5 @@
 ﻿using NUnit.Framework;
+using SampleWebAPI.Models;
 using SampleWebAPI.Controllers;
 
 namespace SampleWebAPITests
