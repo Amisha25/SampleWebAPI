@@ -33,12 +33,12 @@ namespace SampleWebAPI.Controllers
                 Description = "It doesn't toast, but makes delicious waffles"
             },
 
-            new Product
-            {
-                Id = 4,
-                Name = "Heinz cream of Tomato Soup",
-                Description = "57 varities"
-            }
+            //new Product
+            //{
+            //    Id = 4,
+            //    Name = "Heinz cream of Tomato Soup",
+            //    Description = "57 varities"
+            //}
         };
 
         // GET: api/Product
