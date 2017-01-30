@@ -12,8 +12,8 @@ artifacts:
 deploy:
   - provider: WebDeploy
     server: https://samplewebappveyor.scm.azurewebsites.net/msdeploy.axd?site=samplewebappveyor
-    website: samplewebappveyor
-    username: samplewebappveyor
+    website: SampleWebAppVeyor
+    username: SampleWebAppVeyor
     password: $(password)
     remove_files: true
     app_offline: true
