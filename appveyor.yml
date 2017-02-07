@@ -10,11 +10,5 @@ artifacts:
   - path: \SampleWebAPI
     name: SampleWebAPI
 deploy:
-  - provider: WebDeploy
-    server: https://samplewebappveyor.scm.azurewebsites.net/msdeploy.axd?site=samplewebappveyor
-    website: SampleWebAppVeyor
-    username: SampleWebAppVeyor
-    password: $(password)
-    remove_files: true
-    app_offline: true
-    artifact: SampleWebAPI
+  provider: Environment
+  name: staging
